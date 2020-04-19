@@ -1,0 +1,2 @@
+astar_search:turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_example:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop:turtlebot3_msgs
+-DCATKIN_DEVEL_PREFIX=/home/manika/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/manika/catkin_ws/install -G Unix Makefiles

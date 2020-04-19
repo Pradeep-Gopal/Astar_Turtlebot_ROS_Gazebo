@@ -1,0 +1,6 @@
+set(astar_search_SETUP_PY_VERSION "0.0.0")
+set(astar_search_SETUP_PY_SCRIPTS "")
+set(astar_search_SETUP_PY_PACKAGES "astar_search")
+set(astar_search_SETUP_PY_PACKAGE_DIRS "src/astar_search")
+set(astar_search_SETUP_PY_MODULES "")
+set(astar_search_SETUP_PY_MODULE_DIRS "")
